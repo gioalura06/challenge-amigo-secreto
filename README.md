@@ -1,4 +1,4 @@
-## 🔨 Funcionalidades do projeto
+## 🔨 Funcionalidades do Amigo Secreto
 
 O Amigo Secreto é um jogo de sorteio simples e divertido, que funciona da seguinte maneira:
 
@@ -13,5 +13,5 @@ Serve como uma interativa brincadeira com os amigos.
 
 
 
-Feito por:
+Autora:
 https://github.com/gioalura06
