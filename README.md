@@ -13,4 +13,4 @@ Serve como uma interativa brincadeira com os amigos.
 
 
 #Autora
-[<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br>(https://github.com/gioalura06)
+(https://github.com/gioalura06)
