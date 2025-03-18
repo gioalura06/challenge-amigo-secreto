@@ -1,4 +1,4 @@
-## 🛠️ Abrir e rodar o projeto
+## 🔨 Funcionalidades do projeto
 
 O Amigo Secreto é um jogo de sorteio simples e divertido, que funciona da seguinte maneira:
 
