@@ -11,3 +11,6 @@ Serve como uma interativa brincadeira com os amigos.
 (Manter o segredo sobre quem é o seu amigo secreto até o final do jogo, torna-se a brincadeira ainda mais divertida e secreta).
 
 
+
+#Autora
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br>(https://github.com/gioalura06)
