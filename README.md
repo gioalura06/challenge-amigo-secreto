@@ -1,4 +1,5 @@
-**Como funciona o Amigo Secreto?**
+## 🛠️ Abrir e rodar o projeto
+
 O Amigo Secreto é um jogo de sorteio simples e divertido, que funciona da seguinte maneira:
 
 1. Digite o nome dos seus amigos.
@@ -12,5 +13,5 @@ Serve como uma interativa brincadeira com os amigos.
 
 
 
-Autora:
+Feito por:
 https://github.com/gioalura06
