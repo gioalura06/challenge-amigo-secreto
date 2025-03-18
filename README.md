@@ -12,5 +12,5 @@ Serve como uma interativa brincadeira com os amigos.
 
 
 
-#Autora
-(https://github.com/gioalura06)
+Autora:
+https://github.com/gioalura06
